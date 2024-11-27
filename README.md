@@ -9,8 +9,9 @@ The contract has three functions:
 2. burn function
 3. transfer function
 
-#Getting Started
-##Executing program
+# Getting Started
+
+## Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the code from the Cocoin.sol file.
@@ -26,7 +27,3 @@ Once the contract is deployed, you can interact with it by calling the mint func
 Rylan Torres  
 [@202111443@fit.edu.ph]
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
